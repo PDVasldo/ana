@@ -34,10 +34,10 @@ export default function Home() {
       <div className="max-w-md mx-auto space-y-6">
         <div className="text-center pt-6 pb-2">
           <h1 className="text-3xl font-bold text-foreground mb-2">
-            SIT
+            Trabalho Ana
           </h1>
           <p className="text-muted-foreground text-sm">
-            Tá tudo aqui, ó
+            Ai meu Peto
           </p>
         </div>
 
